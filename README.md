@@ -40,7 +40,9 @@ This dashboard enables data-driven decision-making by identifying:
 - Regional performance trends  
 
 ## 📷 Dashboard Preview
-(Add your screenshots here)
+![Page 1](screenshot/p1.png)
+![Page 2](screenshot/p2.png)
+![Page 3](screenshot/p3.png)
 
 ## 💡 Conclusion
 This project demonstrates practical implementation of data analytics concepts including data cleaning, modeling, and visualization, making it suitable for real-world business scenarios.
